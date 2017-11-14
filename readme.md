@@ -21,7 +21,7 @@ Once I had the data in the table, I just wrote the enpoints to query out of the 
 
 If I could work on this for a little longer, I would add a front end to make the queries quicker to write, but also to display the information in a more accessible format. Next, I would also write this using a simple csv import because it took me a while to figure out how to import the required data into my SQL database. However, the first thing that came to mind was a SQL sort so I went with that.
 
-How to run yourself:
+## How to run yourself:
 1. Once you open the folder, navigate to the correct directory and run ‘npm I’
 2. Create an env.sh file and fill the DATABASE_URL enviornmental variable with the correct url
 3. Run `source env.sh` in your terminal
