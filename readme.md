@@ -1,3 +1,5 @@
+# Intro
+
 It took me about an hour and a half to create these api endpoints and this brief project a response to OpenDoor’s take home.
 
 I used PostgresQL to serve as my database. I created a table called ‘Challenges’ with the following parameters:
